@@ -58,6 +58,8 @@
   Slide trình bày
 </h2>
 
+https://www.canva.com/design/DAE-nWZnfHU/ABmHT7qscVQY_DIJ8sAHSA/view?utm_content=DAE-nWZnfHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 <h2>
   Bài tập về nhà
 </h2>
