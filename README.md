@@ -57,4 +57,9 @@
 <h2>
   Slide trình bày
 </h2>
-<a href=>
+
+<h2>
+  Bài tập về nhà
+</h2>
+
+<a href=https://khmt.uit.edu.vn/wecode/sonnt/assignment/139/247>
