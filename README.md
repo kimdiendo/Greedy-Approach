@@ -55,6 +55,6 @@
 - **Tên chủ đề:** Phương pháp thiết kế thuật toán: Greedy Approach
 
 <h2>
-  SLide trình bày
+  Slide trình bày
 </h2>
 <a href=>
