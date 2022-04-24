@@ -62,4 +62,4 @@
   Bài tập về nhà
 </h2>
 
-<a href=https://khmt.uit.edu.vn/wecode/sonnt/assignment/139/247>
+<a href="https://khmt.uit.edu.vn/wecode/sonnt/assignment/139/247" target="_blank">https://khmt.uit.edu.vn/wecode/sonnt/assignment/139/247</a>
