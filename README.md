@@ -21,33 +21,32 @@
    Giới thiệu nhóm
 </h2>
 
-- **Số thứ tự nhóm:** 12
+- **Số thứ tự nhóm:** 8
 - **Thông tin thành viên** 
 
 <table align="center">
       <tr>
        <th>Họ và Tên</th>
        <th>MSSV</th>
-       <th>Github</th>
        <th>Email</th>
       </tr>
       <tr>
-       <td>Nguyễn Văn Hoàng</td>
-       <td>20521346</td>
-       <td> https://github.com/hoangcurly</td>
-       <td>20521346@gm.uit.edu.vn</td>  
+       <td>Huỳnh Đình Kim Điền</td>
+       <td>20521183</td>
+   
+       <td>20521183@gm.uit.edu.vn</td>  
       </tr>
       <tr>
-       <td>Đinh Phương Nam</td>
-       <td>20520641</td>
-       <td> https://github.com/NamCapoo</td>
-       <td>20520641@gm.uit.edu.vn</td>  
+       <td>Đoàn Công Hà</td>
+       <td>20521268</td>
+ 
+       <td>20521268@gm.uit.edu.vn</td>  
       </tr>
       <tr>
-       <td>Nguyễn Quốc Thái</td>
-       <td>20520304</td>
-       <td>https://github.com/QuocThai-254</td>
-       <td>20520304@gm.uit.edu.vn</td>  
+       <td>Huỳnh Nguyễn Vân Khánh</td>
+       <td>20521446</td>
+   
+       <td>20521446@gm.uit.edu.vn</td>  
       </tr>
 </table>
 
@@ -55,6 +54,6 @@
   Chủ đề báo cáo 
 </h2>
 
-- **Số thứ tự chủ đề:** 6
-- **Tên chủ đề:** Phương pháp thiết kế thuật toán: Completed search - Branch and Bound
+- **Số thứ tự chủ đề:** 8
+- **Tên chủ đề:** Phương pháp thiết kế thuật toán: Greedy Approach
 
