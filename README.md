@@ -33,19 +33,16 @@
       <tr>
        <td>Huỳnh Đình Kim Điền</td>
        <td>20521183</td>
-   
        <td>20521183@gm.uit.edu.vn</td>  
       </tr>
       <tr>
        <td>Đoàn Công Hà</td>
        <td>20521268</td>
- 
        <td>20521268@gm.uit.edu.vn</td>  
       </tr>
       <tr>
        <td>Huỳnh Nguyễn Vân Khánh</td>
        <td>20521446</td>
-   
        <td>20521446@gm.uit.edu.vn</td>  
       </tr>
 </table>
